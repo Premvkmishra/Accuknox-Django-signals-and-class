@@ -1,0 +1,1 @@
+"""AccuKnox Django Assignment Package."""
