@@ -12,6 +12,8 @@ This project provides a comprehensive investigation into Django's signal system,
 
 Additionally, the project implements a professional `Rectangle` class that demonstrates Python's iterator protocol.
 
+![Test Results](assets/Screenshot%202026-05-31%20191529.png)
+
 ## Technology Stack
 
 - **Python**: 3.12+
@@ -394,7 +396,6 @@ The Rectangle class includes:
 
 ### Test Results
 - [x] pytest coverage report
-![Test Results](assets/Screenshot%202026-05-31%20191529.png)
 - [x] Django test runner output
 
 ### Application UI
